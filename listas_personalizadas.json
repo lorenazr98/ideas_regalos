@@ -1,0 +1,38 @@
+{
+    "Rogelio": {
+        "Nombre regalo": [
+            "Coche"
+        ],
+        "Detalles": [
+            "Audi"
+        ]
+    },
+    "Ana": {
+        "Nombre regalo": [
+            "Lastres"
+        ],
+        "Detalles": [
+            "Decatlon"
+        ]
+    },
+    "Lorena": {
+        "Nombre regalo": [
+            "Rat\u00f3n",
+            "Teclado",
+            "PC"
+        ],
+        "Detalles": [
+            "Fnac",
+            "PcComponentes",
+            "El Corte Ingles"
+        ]
+    },
+    "Andrea": {
+        "Nombre regalo": [
+            "Sims 5"
+        ],
+        "Detalles": [
+            "EA"
+        ]
+    }
+}
