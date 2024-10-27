@@ -1,0 +1,26 @@
+{
+    "Rogelio": {
+        "Nombre regalo": [
+            "Bicicleta"
+        ],
+        "Detalles": [
+            "Decatlon"
+        ]
+    },
+    "Ana": {
+        "Nombre regalo": [],
+        "Detalles": []
+    },
+    "Lorena": {
+        "Nombre regalo": [
+            "Rat\u00f3n"
+        ],
+        "Detalles": [
+            "PcComponentes"
+        ]
+    },
+    "Andrea": {
+        "Nombre regalo": [],
+        "Detalles": []
+    }
+}
